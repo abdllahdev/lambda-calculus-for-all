@@ -2,8 +2,8 @@ open Core
 
 type 'a boolean = 'a -> 'a -> 'a
 
-let true' : 'a boolean = fun t _f -> t
-let false' : 'a boolean = fun _t f -> f
+let true' : 'a boolean = fun t _ -> t
+let false' : 'a boolean = fun _ f -> f
 
 let ( && ) (x : 'a boolean) (y : 'a boolean) : 'a boolean =
  fun t f -> x (y t f) f
