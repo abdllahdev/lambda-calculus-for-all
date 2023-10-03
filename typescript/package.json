@@ -1,0 +1,26 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "author": "Abdullah Fathy Elsayed (@abdllahdev)",
+  "license": "MIT",
+  "description": "A series of tutorials for lambda calculus",
+  "repository": "https://github.com/abdllahdev/simply-lambda",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "exec": "pnpm build && node dist/index.js"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-standard-with-typescript": "^39.1.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "prettier": "^3.0.3",
+    "typescript": "^5.2.2"
+  }
+}

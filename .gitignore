@@ -1,1 +1,6 @@
-_build
+# ocaml
+ocaml/_build
+
+# typescript
+typescript/node_modules
+typescript/dist

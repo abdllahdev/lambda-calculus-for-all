@@ -7,9 +7,9 @@
 (source
  (github abdllahdev/simply-lambda))
 
-(authors "Abdllah Fathy Elsayed (@abdllahdev)")
+(authors "Abdullah Fathy Elsayed (@abdllahdev)")
 
-(maintainers "Abdllah Fathy Elsayed (@abdllahdev)")
+(maintainers "Abdullah Fathy Elsayed (@abdllahdev)")
 
 (license MIT)
 
