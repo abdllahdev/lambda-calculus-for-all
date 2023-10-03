@@ -1,0 +1,3 @@
+(library
+ (name simply_lambdas)
+ (libraries core fmt))

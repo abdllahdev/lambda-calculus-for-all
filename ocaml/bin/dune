@@ -1,4 +1,0 @@
-(executable
- (public_name simply-lambdas)
- (name main)
- (libraries simply_lambdas))
