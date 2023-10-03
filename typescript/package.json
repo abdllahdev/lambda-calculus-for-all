@@ -4,7 +4,7 @@
   "author": "Abdullah Fathy Elsayed (@abdllahdev)",
   "license": "MIT",
   "description": "A series of tutorials for lambda calculus",
-  "repository": "https://github.com/abdllahdev/simply-lambda",
+  "repository": "https://github.com/abdllahdev/simply-lambdas",
   "main": "index.ts",
   "scripts": {
     "build": "tsc",

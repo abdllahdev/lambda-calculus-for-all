@@ -1,4 +1,4 @@
-open Simply_lambda
+open Simply_lambdas
 
 let () =
   let and_results = Booleans.test_op ~op:AND in
